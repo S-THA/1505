@@ -13,7 +13,7 @@ var bgMusicControls = true; // Show UI music control
 
 // ===================== start =======================
 // animation start after 1000 miliseconds
-setTimeout(init, 10);
+setTimeout(init, 999);
 
 var odrag = document.getElementById('drag-container');
 var ospin = document.getElementById('spin-container');
